@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GigaBnbAPI", "GigaBnbAPI\GigaBnbAPI.csproj", "{62E7E8F4-0EC0-4981-9604-E2A2685A66AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GigaBnB.DataAccess", "GigaBnB.DataAccess\GigaBnB.DataAccess.csproj", "{E09A3539-99B5-420E-94D7-394319E29E04}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GigaBnB.Model", "GigaBnB.Model\GigaBnB.Model.csproj", "{769872BD-1F4B-43FA-BD44-FB31F9D1493C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GigaBnB.Business", "GigaBnB.Business\GigaBnB.Business.csproj", "{5BDD2647-5728-4B3A-BA3C-00D07A585379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaBnB.Test", "GigaBnB.Test\GigaBnB.Test.csproj", "{A2872CBA-52B8-4FA9-83F0-B04A48F6379C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62E7E8F4-0EC0-4981-9604-E2A2685A66AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E7E8F4-0EC0-4981-9604-E2A2685A66AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E7E8F4-0EC0-4981-9604-E2A2685A66AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E7E8F4-0EC0-4981-9604-E2A2685A66AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E09A3539-99B5-420E-94D7-394319E29E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09A3539-99B5-420E-94D7-394319E29E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09A3539-99B5-420E-94D7-394319E29E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09A3539-99B5-420E-94D7-394319E29E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{769872BD-1F4B-43FA-BD44-FB31F9D1493C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769872BD-1F4B-43FA-BD44-FB31F9D1493C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769872BD-1F4B-43FA-BD44-FB31F9D1493C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769872BD-1F4B-43FA-BD44-FB31F9D1493C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BDD2647-5728-4B3A-BA3C-00D07A585379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDD2647-5728-4B3A-BA3C-00D07A585379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDD2647-5728-4B3A-BA3C-00D07A585379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDD2647-5728-4B3A-BA3C-00D07A585379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2872CBA-52B8-4FA9-83F0-B04A48F6379C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2872CBA-52B8-4FA9-83F0-B04A48F6379C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2872CBA-52B8-4FA9-83F0-B04A48F6379C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2872CBA-52B8-4FA9-83F0-B04A48F6379C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1FD843E-FA7F-4305-AC59-6287529A330F}
+	EndGlobalSection
+EndGlobal

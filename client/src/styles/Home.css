@@ -1,0 +1,13 @@
+.bg {
+  background-color: #e6e6e6;
+}
+
+.form-control {
+  width: 200px;
+  margin-left: 55px;
+}
+
+.search-field {
+  text-align: center;
+  padding-top: 20px;
+}
