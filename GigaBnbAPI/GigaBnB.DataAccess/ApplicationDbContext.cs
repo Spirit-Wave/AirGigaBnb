@@ -12,4 +12,6 @@ public class ApplicationDbContext : DbContext
     public DbSet<User> Users { get; set; }
 
     public DbSet<Listing> Listings { get; set; }
+
+    public DbSet<FavoriteListings> FavoriteListings { get; set;}
 }

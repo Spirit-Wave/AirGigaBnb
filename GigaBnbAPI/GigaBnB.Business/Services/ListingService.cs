@@ -1,6 +1,5 @@
 ﻿using GigaBnB.Business.DTOs;
 using GigaBnB.Business.Services.IServices;
-using GigaBnB.Business.Validation;
 using GigaBnB.DataAccess.Repository.IRepository;
 using GigaBnB.Model.Enum;
 using GigaBnB.Model.Models;
@@ -10,12 +9,10 @@ namespace GigaBnB.Business.Services;
 public class ListingService : IListingService
 {
     private readonly IUnitOfWork _unitOfWork;
-    private readonly IValidation _validationDictionary;
 
-    public ListingService(IUnitOfWork unitOfWork, IValidation validationDictionary)
+    public ListingService(IUnitOfWork unitOfWork)
     {
         this._unitOfWork = unitOfWork;
-        this._validationDictionary = validationDictionary;
     }
 
     public async Task<IEnumerable<Listing>> GetAllListings()
@@ -25,15 +22,20 @@ public class ListingService : IListingService
 
     public async Task<Listing> GetListing(Guid id)
     {
-        return await _unitOfWork.Listing.GetByIdAsync(id);
+        var listing = await _unitOfWork.Listing.GetAsync(listing => listing.Id == id, $"{nameof(Listing.Owner)}");
+        if (listing is not null) return listing;
+        return listing ?? new Listing();
     }
 
     public async Task<Listing> CreateListing(ListingDto listing)
     {
         var createdListing = new Listing()
         {
+            Title = listing.Title,
+            City = listing.City,
+            ApartmentType = listing.ApartmentType,
             Id = Guid.NewGuid(),
-            OwnerId = Guid.NewGuid(), //Change to CurrentUser when implemented
+            OwnerId = listing.OwnerId, //Change to CurrentUser when implemented
             Price = listing.Price,
             RoomCount = listing.RoomCount,
             Summary = listing.Summary,
@@ -58,7 +60,7 @@ public class ListingService : IListingService
 
     public async Task<Listing> EditListing(ListingDto listing)
     {
-        var listingToEdit = _unitOfWork.Listing.GetById(listing.Id);
+        var listingToEdit = await _unitOfWork.Listing.GetAsync(list => list.Id == listing.Id);
 
         if (listingToEdit != null)
         {
@@ -81,29 +83,21 @@ public class ListingService : IListingService
         }
         else
         {
-            _validationDictionary.AddError(listing.Id.ToString(), "Listing does not exist");
         }
-
-        _validationDictionary.ThrowErrorsIfExists();
-
-        return listingToEdit;
+        return listingToEdit ?? new Listing();
     }
 
     public async Task<Listing> DeleteListing(Guid id)
     {
-        var listingToDelete = _unitOfWork.Listing.GetById(id);
-        if (listingToDelete != null)
+        var listingToDelete = await _unitOfWork.Listing.GetAsync(list => list.Id == id);
+        if (listingToDelete is not null)
         {
             _unitOfWork.Listing.Remove(listingToDelete);
             await _unitOfWork.SaveAsync();
         }
         else
         {
-            _validationDictionary.AddError(id.ToString(), "Listing does not exist");
         }
-
-        _validationDictionary.ThrowErrorsIfExists();
-
-        return listingToDelete;
+        return listingToDelete ?? new Listing();
     }
 }

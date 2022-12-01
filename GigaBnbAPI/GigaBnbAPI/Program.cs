@@ -1,4 +1,4 @@
-using GigaBnB.Business.Filters;
+using GigaBnB.Business.DTOs;
 using GigaBnB.Business.Validation;
 using GigaBnB.DataAccess;
 using GigaBnbAPI.Extensions;
@@ -9,19 +9,16 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Logging.AddLog4Net();
 
-builder.Services.AddControllers(options =>
-{
-    options.Filters.Add<ValidationExceptionFilterAttribute>();
-});
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("DefaultConnection")
     ));
 builder.Services.AddRepository();
 builder.Services.AddServices();
+builder.Services.AddValidators();
 builder.Services.AddTransient<ExceptionHandlerMiddleware>();
-builder.Services.AddScoped<IValidation, ValidationDictionary>();
 builder.Services.AddSwaggerGen();
+builder.Services.AddControllers();
 
 var app = builder.Build();
 

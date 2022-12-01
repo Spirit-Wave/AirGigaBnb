@@ -6,6 +6,9 @@ namespace GigaBnB.Model.Models;
 public class Listing : EntityBase
 {
     [Required]
+    public string Title { get; set; }
+
+    [Required]
     public ApartmentType ApartmentType { get; set; }
 
     public Guid OwnerId { get; set; }
@@ -22,6 +25,7 @@ public class Listing : EntityBase
     [Required]
     public int BedroomCount { get; set; }
 
+    public string City { get; set; } = null!;
 
     public string? Summary { get; set; }
 
@@ -43,9 +47,7 @@ public class Listing : EntityBase
 
     public DateTime? DatePublished { get; set; }
 
-    public DateTime? DateCreated { get; set; }
-
-    public DateTime? DateUpdated { get; set; }
-
     public ListingState ListingState { get; set; }
+
+    public User? Owner { get; set; }
 }

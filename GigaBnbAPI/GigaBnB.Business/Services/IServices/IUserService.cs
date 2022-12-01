@@ -1,11 +1,14 @@
 ﻿using GigaBnB.Business.DTOs;
+using GigaBnB.Business.Utility;
 using GigaBnB.Model.Models;
 
 namespace GigaBnB.Business.Services.IServices;
 
 public interface IUserService
 {
-    Task<User> RegisterUser(UserDto user);
+    Task<Result<User>> RegisterClient(RegisterDto register);
 
-    bool LoginUser(UserDto user);
+    Task<Result<User>> RegisterWorker(RegisterDto register);
+
+    Task<Result<User?>> LoginUser(LoginDto user);
 }

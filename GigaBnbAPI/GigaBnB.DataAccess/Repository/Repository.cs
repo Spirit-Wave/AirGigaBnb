@@ -20,7 +20,7 @@ public class Repository<T> : IRepository<T> where T : class
         _dbSet.Add(entity);
     }
 
-    public T Get(Expression<Func<T, bool>> filter, string? includeProperties = null)
+    public T? Get(Expression<Func<T, bool>> filter, string? includeProperties = null)
     {
         IQueryable<T> query = _dbSet;
         query = query.Where(filter);
@@ -35,11 +35,6 @@ public class Repository<T> : IRepository<T> where T : class
         return query.ToList();
     }
 
-    public T GetById(object id)
-    {
-        return _dbSet.Find(id);
-    }
-
     public void Remove(T entity)
     {
         _dbSet.Remove(entity);
@@ -50,7 +45,7 @@ public class Repository<T> : IRepository<T> where T : class
         _dbSet.RemoveRange(entities);
     }
 
-    public async Task<T> GetAsync(Expression<Func<T, bool>> filter, string? includeProperties = null)
+    public async Task<T?> GetAsync(Expression<Func<T, bool>> filter, string? includeProperties = null)
     {
         IQueryable<T> query = _dbSet;
         query = query.Where(filter);
@@ -63,11 +58,6 @@ public class Repository<T> : IRepository<T> where T : class
         IQueryable<T> query = _dbSet;
         query = IncludePropertiesIfExists(includeProperties, query);
         return await query.ToListAsync();
-    }
-
-    public async Task<T> GetByIdAsync(object id)
-    {
-        return await _dbSet.FindAsync(id);
     }
 
     public void Update(T entity)
