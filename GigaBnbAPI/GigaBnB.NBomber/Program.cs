@@ -15,7 +15,7 @@ var scenario = ScenarioBuilder.CreateScenario("Get All Listings", step)
     .WithWarmUpDuration(TimeSpan.FromSeconds(5))
     .WithLoadSimulations(
         Simulation.InjectPerSec(rate: 100, during: TimeSpan.FromSeconds(60))
-    ); ;
+    );
 
 NBomberRunner
     .RegisterScenarios(scenario)

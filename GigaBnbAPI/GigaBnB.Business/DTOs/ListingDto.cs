@@ -4,7 +4,7 @@ namespace GigaBnB.Business.DTOs;
 
 public class ListingDto
 {
-    public string Title { get; set; }
+    public string? Title { get; set; }
 
     public Guid Id { get; set; }
 
@@ -26,7 +26,7 @@ public class ListingDto
 
     public bool HasTelevision { get; set; }
 
-    public string City { get; set; }
+    public string? City { get; set; }
 
     public bool HasKitchen { get; set; }
 
