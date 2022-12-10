@@ -1,4 +1,5 @@
-﻿using GigaBnB.Business.DTOs;
+﻿using System.Text.RegularExpressions;
+using GigaBnB.Business.DTOs;
 using GigaBnB.Business.Utility;
 using GigaBnB.DataAccess.Repository.IRepository;
 using GigaBnB.Model.Enum;
@@ -46,12 +47,18 @@ public class RegisterUserValidator : BaseValidator, IValidator<RegisterDto>
     {
         if (userPassword != confirmPassword)
         {
-            AddError(nameof(User.Password), "Password didn't match confirm password");
+            AddError(nameof(User.Password), "Password does not match confirm password");
         }
 
-        if (userPassword.Length <= 8)
+        if (userPassword.Length < 8)
         {
-            AddError(nameof(User.Password), "Password was under 8 symbols");
+            AddError(nameof(User.Password), "Password must contain 8 or more characters");
+        }
+
+        var rg = new Regex("^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[@$!%*?&])[A-Za-z\\d@$!%*?&]{1,}$");
+        if (!rg.IsMatch(userPassword))
+        {
+            AddError(nameof(User.Password), "Password must contain at least one uppercase letter, one lowercase letter, one number and one special character");
         }
     }
 
@@ -65,12 +72,12 @@ public class RegisterUserValidator : BaseValidator, IValidator<RegisterDto>
     {
         var duplicateUser = await _unitOfWork.User.GetAsync(u => u.Email == email);
         if (duplicateUser is null) return;
-        AddError(nameof(User.Email), "Email is already taken.");
+        AddError(nameof(User.Email), "Specified email is already taken");
     }
 
     private void ValidateEmailFormat(string userEmail)
     {
         if (!DataMatcher.MatchEmail(userEmail)) return;
-        AddError(nameof(User.Email), "Invalid email format.");
+        AddError(nameof(User.Email), "Invalid email format");
     }
 }

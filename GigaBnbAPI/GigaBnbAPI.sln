@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GigaBnB.Model", "GigaBnB.Mo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GigaBnB.Business", "GigaBnB.Business\GigaBnB.Business.csproj", "{5BDD2647-5728-4B3A-BA3C-00D07A585379}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaBnB.Test", "GigaBnB.Test\GigaBnB.Test.csproj", "{A2872CBA-52B8-4FA9-83F0-B04A48F6379C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GigaBnB.Test", "GigaBnB.Test\GigaBnB.Test.csproj", "{A2872CBA-52B8-4FA9-83F0-B04A48F6379C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaBnB.NBomber", "GigaBnB.NBomber\GigaBnB.NBomber.csproj", "{A7DA5F14-C927-4E73-AA4F-31F193D1F548}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A2872CBA-52B8-4FA9-83F0-B04A48F6379C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2872CBA-52B8-4FA9-83F0-B04A48F6379C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2872CBA-52B8-4FA9-83F0-B04A48F6379C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7DA5F14-C927-4E73-AA4F-31F193D1F548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7DA5F14-C927-4E73-AA4F-31F193D1F548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7DA5F14-C927-4E73-AA4F-31F193D1F548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7DA5F14-C927-4E73-AA4F-31F193D1F548}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

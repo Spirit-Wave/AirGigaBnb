@@ -1,0 +1,2 @@
+test_suite,test_name,scenario,duration,step_name,request_count,ok,failed,rps,min,mean,max,50_percent,75_percent,95_percent,99_percent,std_dev,data_transfer_min_kb,data_transfer_mean_kb,data_transfer_max_kb,data_transfer_all_mb
+nbomber_default_test_suite_name,nbomber_default_test_name,Get All Listings,00:00:30,Get All Listings Endpoint,6000,6000,0,200,6,87,444,09,2169,47,413,95,473,6,1360,9,1831,94,343,32,0,0,0,0

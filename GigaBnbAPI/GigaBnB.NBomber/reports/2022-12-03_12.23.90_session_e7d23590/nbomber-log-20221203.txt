@@ -1,0 +1,648 @@
+2022-12-03 14:23:42.080 +02:00 [INF] [ThreadId:1] NBomber 3.3.0 Started a new session: 2022-12-03_12.23.90_session_e7d23590
+2022-12-03 14:23:42.266 +02:00 [INF] [ThreadId:1] NBomber started as single node
+2022-12-03 14:23:42.352 +02:00 [INF] [ThreadId:1] Plugins: no plugins were loaded
+2022-12-03 14:23:42.353 +02:00 [INF] [ThreadId:1] Reporting sinks: no reporting sinks were loaded
+2022-12-03 14:23:42.353 +02:00 [INF] [ThreadId:1] Starting init...
+2022-12-03 14:23:42.404 +02:00 [INF] [ThreadId:1] Target scenarios: Get All Listings
+2022-12-03 14:23:42.426 +02:00 [INF] [ThreadId:1] Init finished
+2022-12-03 14:23:42.497 +02:00 [INF] [ThreadId:1] Starting warm up...
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:17] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:65] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:8] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:13] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:26] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:28] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:59] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.486 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:63] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.476 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.467 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.487 +02:00 [FTL] [ThreadId:74] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.504 +02:00 [FTL] [ThreadId:73] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.486 +02:00 [FTL] [ThreadId:3] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.523 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.570 +02:00 [FTL] [ThreadId:66] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.580 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.599 +02:00 [FTL] [ThreadId:75] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.599 +02:00 [FTL] [ThreadId:70] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.618 +02:00 [FTL] [ThreadId:73] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.618 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.620 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.620 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.646 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.731 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.732 +02:00 [FTL] [ThreadId:74] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.732 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.740 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.794 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.794 +02:00 [FTL] [ThreadId:63] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.813 +02:00 [FTL] [ThreadId:59] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.813 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.813 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.935 +02:00 [FTL] [ThreadId:70] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.943 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.959 +02:00 [FTL] [ThreadId:8] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.977 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.977 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:47.977 +02:00 [FTL] [ThreadId:65] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.023 +02:00 [FTL] [ThreadId:13] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.046 +02:00 [FTL] [ThreadId:66] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.075 +02:00 [FTL] [ThreadId:26] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.099 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.108 +02:00 [FTL] [ThreadId:17] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.108 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.116 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.116 +02:00 [FTL] [ThreadId:75] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.108 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.146 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.154 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.154 +02:00 [FTL] [ThreadId:75] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.155 +02:00 [FTL] [ThreadId:75] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.155 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.154 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.154 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.164 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.165 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.164 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.165 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.184 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.215 +02:00 [FTL] [ThreadId:75] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.217 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.215 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.235 +02:00 [FTL] [ThreadId:3] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.254 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.254 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.254 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.254 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.319 +02:00 [INF] [ThreadId:73] Starting bombing...
+2022-12-03 14:23:48.348 +02:00 [FTL] [ThreadId:75] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.347 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.349 +02:00 [FTL] [ThreadId:17] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.358 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.405 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.437 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.447 +02:00 [FTL] [ThreadId:75] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.435 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.484 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.484 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.484 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.502 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.535 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.544 +02:00 [FTL] [ThreadId:3] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.556 +02:00 [FTL] [ThreadId:75] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.585 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.613 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.641 +02:00 [FTL] [ThreadId:17] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.698 +02:00 [FTL] [ThreadId:75] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.698 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.699 +02:00 [FTL] [ThreadId:75] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.699 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.718 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.726 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.736 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.736 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.746 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.756 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.758 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.759 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.759 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.759 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.759 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.756 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.766 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.767 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.767 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.767 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.767 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.767 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.767 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.777 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.777 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.777 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.777 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.776 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.777 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.777 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.787 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.787 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.787 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.788 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.789 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.789 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.789 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.788 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.788 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.799 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.798 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.799 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.799 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.799 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.807 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.807 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.799 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.808 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.799 +02:00 [FTL] [ThreadId:75] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.807 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.809 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.809 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.809 +02:00 [FTL] [ThreadId:75] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.809 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.809 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.809 +02:00 [FTL] [ThreadId:75] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.809 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.809 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.819 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.819 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.832 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.819 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.842 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.840 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.842 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.839 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.849 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:48.850 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.850 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.850 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.859 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.861 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.861 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.861 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.861 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.860 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.870 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.870 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.870 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.871 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.871 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.871 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.871 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.871 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.870 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.871 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.879 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.879 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.879 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.879 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.879 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.879 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.879 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.879 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.879 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.889 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.916 +02:00 [FTL] [ThreadId:75] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.916 +02:00 [FTL] [ThreadId:63] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.916 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.916 +02:00 [FTL] [ThreadId:65] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:48.916 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:49.683 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:49.710 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:49.720 +02:00 [FTL] [ThreadId:74] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:49.738 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:49.783 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:49.802 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:49.820 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:49.849 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:49.866 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:49.866 +02:00 [FTL] [ThreadId:63] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:49.889 +02:00 [FTL] [ThreadId:66] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:49.925 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:49.936 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:49.957 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:49.992 +02:00 [FTL] [ThreadId:17] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.036 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.037 +02:00 [FTL] [ThreadId:70] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.066 +02:00 [FTL] [ThreadId:75] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.091 +02:00 [FTL] [ThreadId:26] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.583 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:50.668 +02:00 [FTL] [ThreadId:66] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:50.668 +02:00 [FTL] [ThreadId:66] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.712 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.778 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.797 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:50.797 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.808 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.855 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.855 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:50.855 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.873 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:50.873 +02:00 [FTL] [ThreadId:65] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.873 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:50.874 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.874 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.911 +02:00 [FTL] [ThreadId:70] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:50.912 +02:00 [FTL] [ThreadId:70] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.911 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:50.922 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:50.959 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:51.026 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:51.056 +02:00 [FTL] [ThreadId:63] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:51.059 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:51.090 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:51.163 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:51.172 +02:00 [FTL] [ThreadId:66] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:51.172 +02:00 [FTL] [ThreadId:63] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:51.174 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:51.182 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:51.182 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.191 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.191 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.201 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.201 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.202 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.201 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.209 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.209 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.210 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.210 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.210 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.211 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.210 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.211 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.218 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.218 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.218 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.218 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.218 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.219 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.218 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.228 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.229 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.229 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.229 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.229 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.229 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.238 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.265 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.266 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.266 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.273 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.273 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.273 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.273 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.274 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.283 +02:00 [FTL] [ThreadId:26] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:51.283 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.284 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.303 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step unhandled exception: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:7244))
+2022-12-03 14:23:51.576 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.584 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.594 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.584 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.602 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.602 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.603 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.603 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.603 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.603 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.610 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.611 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.611 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.611 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.612 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.610 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.619 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.619 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.630 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.630 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.629 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.630 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.630 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.639 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.639 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.639 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.639 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.639 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.639 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.639 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.639 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.639 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.639 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.629 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.647 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.647 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.647 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.657 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.658 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.658 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.658 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.658 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.658 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.658 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.658 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.658 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.658 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.658 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.665 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.665 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.666 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.666 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.666 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.676 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.676 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.676 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.677 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.677 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.677 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.677 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.665 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.684 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.677 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.685 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.685 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.685 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.695 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.695 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.685 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.695 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.695 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.695 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.696 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.696 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.696 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.697 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.696 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.705 +02:00 [FTL] [ThreadId:64] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.705 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.705 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:51.706 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.082 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.082 +02:00 [FTL] [ThreadId:13] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.082 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.091 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.091 +02:00 [FTL] [ThreadId:13] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.092 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.102 +02:00 [FTL] [ThreadId:13] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.102 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.101 +02:00 [FTL] [ThreadId:8] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.102 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.102 +02:00 [FTL] [ThreadId:17] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.112 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.114 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.114 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.114 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.114 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.113 +02:00 [FTL] [ThreadId:17] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.114 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.112 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.112 +02:00 [FTL] [ThreadId:13] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:8] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:17] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:13] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:8] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:8] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.112 +02:00 [FTL] [ThreadId:3] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:17] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:8] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:17] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:3] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:8] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:13] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.115 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.118 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.138 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.152 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.153 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.154 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.155 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.156 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.156 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.154 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.165 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.220 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.223 +02:00 [FTL] [ThreadId:17] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.223 +02:00 [FTL] [ThreadId:14] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:52.231 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.550 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.610 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.653 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.662 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.681 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.681 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.710 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.711 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.712 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.712 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.712 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.712 +02:00 [FTL] [ThreadId:58] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.746 +02:00 [FTL] [ThreadId:59] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.746 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.746 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.746 +02:00 [FTL] [ThreadId:70] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.746 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.746 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.746 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.746 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:59] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:70] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.746 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.746 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.746 +02:00 [FTL] [ThreadId:26] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:59] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.746 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.754 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:70] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.754 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.754 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.754 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.746 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.746 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.754 +02:00 [FTL] [ThreadId:3] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.754 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.755 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.754 +02:00 [FTL] [ThreadId:26] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.754 +02:00 [FTL] [ThreadId:59] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.755 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.755 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.755 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.755 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.755 +02:00 [FTL] [ThreadId:70] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.755 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:26] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.755 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:70] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.747 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:26] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.755 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:59] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.764 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:3] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.774 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.773 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.773 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.774 +02:00 [FTL] [ThreadId:8] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.773 +02:00 [FTL] [ThreadId:26] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.774 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.774 +02:00 [FTL] [ThreadId:59] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.774 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.784 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.783 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.783 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.784 +02:00 [FTL] [ThreadId:59] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.783 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.785 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.785 +02:00 [FTL] [ThreadId:59] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.785 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.785 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.785 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.793 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.793 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.794 +02:00 [FTL] [ThreadId:59] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:70] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.794 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.783 +02:00 [FTL] [ThreadId:3] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.794 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.793 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.794 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.802 +02:00 [FTL] [ThreadId:59] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.802 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.802 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.764 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.802 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.802 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.802 +02:00 [FTL] [ThreadId:70] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.763 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:59] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:59] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.804 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.802 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.811 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.811 +02:00 [FTL] [ThreadId:3] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.812 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.811 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.820 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.803 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.811 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.811 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.811 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.820 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.811 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.811 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.820 +02:00 [FTL] [ThreadId:15] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.820 +02:00 [FTL] [ThreadId:5] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.820 +02:00 [FTL] [ThreadId:16] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.820 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.820 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.820 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.820 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.831 +02:00 [FTL] [ThreadId:62] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.831 +02:00 [FTL] [ThreadId:60] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.820 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.820 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.820 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.820 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.820 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.831 +02:00 [FTL] [ThreadId:74] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.841 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.841 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.841 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.841 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.841 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.841 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.842 +02:00 [FTL] [ThreadId:68] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.842 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.842 +02:00 [FTL] [ThreadId:61] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.842 +02:00 [FTL] [ThreadId:72] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.842 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.841 +02:00 [FTL] [ThreadId:11] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.841 +02:00 [FTL] [ThreadId:12] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.924 +02:00 [FTL] [ThreadId:76] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:53.943 +02:00 [FTL] [ThreadId:71] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:54.083 +02:00 [FTL] [ThreadId:69] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:54.671 +02:00 [FTL] [ThreadId:57] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms
+2022-12-03 14:23:54.767 +02:00 [FTL] [ThreadId:67] Step 'Get All Listings Endpoint' from Scenario: 'Get All Listings' has failed. Error: step timeout: 5000 ms

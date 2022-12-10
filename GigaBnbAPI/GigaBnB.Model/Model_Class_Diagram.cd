@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GigaBnB.Model.Models.FavoriteListings">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAAAAAAABAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\FavoriteListings.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Listing" />
+      <Property Name="User" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GigaBnB.Model.Models.Listing">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <AssociationLine Name="ApartmentType" Type="GigaBnB.Model.Enum.ApartmentType" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.25" Y="3.869" />
+        <Point X="5.875" Y="3.869" />
+        <Point X="5.875" Y="4.25" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EACAQAGIAQAAAEAIAAAAAAIAAAAAQIAKAQiAgAAAAAA=</HashCode>
+      <FileName>Models\Listing.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Owner" />
+      <Property Name="ListingState" />
+      <Property Name="ApartmentType" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GigaBnB.Model.Models.User">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAggAAAEAAAQAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Role" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GigaBnB.Model.EntityBase">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>EntityBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="GigaBnB.Model.Enum.ApartmentType">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAEAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enum\ApartmentType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GigaBnB.Model.Enum.ListingState">
+    <Position X="9.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAQAACAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enum\ListingState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GigaBnB.Model.Enum.UserRole">
+    <Position X="12.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAACQAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enum\UserRole.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

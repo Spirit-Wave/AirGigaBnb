@@ -20,9 +20,9 @@ public class ListingService : IListingService
         return await _unitOfWork.Listing.GetAllAsync();
     }
 
-    public async Task<Listing> GetListing(Guid id)
+    public async Task<Listing> GetListing(Guid listingId)
     {
-        var listing = await _unitOfWork.Listing.GetAsync(listing => listing.Id == id, $"{nameof(Listing.Owner)}");
+        var listing = await _unitOfWork.Listing.GetAsync(listing => listing.Id == listingId, $"{nameof(Listing.Owner)}");
         if (listing is not null) return listing;
         return listing ?? new Listing();
     }
@@ -71,33 +71,29 @@ public class ListingService : IListingService
             listingToEdit.MaxOccupancy = listing.MaxOccupancy;
             listingToEdit.BathroomCount = listing.BathroomCount;
             listingToEdit.BedroomCount = listing.BedroomCount;
-            listingToEdit.HasHeating = listingToEdit.HasHeating;
-            listingToEdit.HasInternet = listingToEdit.HasInternet;
-            listingToEdit.HasKitchen = listingToEdit.HasKitchen;
-            listingToEdit.HasAirConditioner = listingToEdit.HasAirConditioner;
-            listingToEdit.HasTelevision = listingToEdit.HasTelevision;
+            listingToEdit.HasHeating = listing.HasHeating;
+            listingToEdit.HasInternet = listing.HasInternet;
+            listingToEdit.HasKitchen = listing.HasKitchen;
+            listingToEdit.HasAirConditioner = listing.HasAirConditioner;
+            listingToEdit.HasTelevision = listing.HasTelevision;
             listingToEdit.DateUpdated = DateTime.Now;
 
             _unitOfWork.Listing.Update(listingToEdit);
             await _unitOfWork.SaveAsync();
         }
-        else
-        {
-        }
+
         return listingToEdit ?? new Listing();
     }
 
-    public async Task<Listing> DeleteListing(Guid id)
+    public async Task<Listing> DeleteListing(Guid listingId)
     {
-        var listingToDelete = await _unitOfWork.Listing.GetAsync(list => list.Id == id);
+        var listingToDelete = await _unitOfWork.Listing.GetAsync(list => list.Id == listingId);
         if (listingToDelete is not null)
         {
             _unitOfWork.Listing.Remove(listingToDelete);
             await _unitOfWork.SaveAsync();
         }
-        else
-        {
-        }
+
         return listingToDelete ?? new Listing();
     }
 }

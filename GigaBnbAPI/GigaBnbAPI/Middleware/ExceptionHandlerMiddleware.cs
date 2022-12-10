@@ -25,7 +25,7 @@ public class ExceptionHandlerMiddleware : IMiddleware
         }
     }
 
-    private Task HandleExceptionAsync(HttpContext context)
+    private static Task HandleExceptionAsync(HttpContext context)
     {
         context.Response.ContentType = "application/json";
         context.Response.StatusCode = (int) HttpStatusCode.InternalServerError;
@@ -33,7 +33,7 @@ public class ExceptionHandlerMiddleware : IMiddleware
         return context.Response.WriteAsync(new ErrorDto()
         {
             Error =
-                "\"Atsiprašome\" už nesklandumus kažkoks šūdas įvyko back'e, kreipkitės į sistemos administratorių Elviną",
+                "\"Atsiprašome\" už nesklandumus, įvyko netikėta klaida, kreipkitės į sistemos administratorių",
             Message = ":)",
         }.ToString());
     }

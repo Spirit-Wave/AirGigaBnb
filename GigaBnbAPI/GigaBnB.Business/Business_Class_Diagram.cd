@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GigaBnB.Business.DTOs.ErrorDto">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAEAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>DTOs\ErrorDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GigaBnB.Business.DTOs.FavoriteListingDto">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTOs\FavoriteListingDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GigaBnB.Business.DTOs.ListingDto">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACCQAEIAQAAAEAIAAAAAAAAAAAAQIACAQiAgAAAAAA=</HashCode>
+      <FileName>DTOs\ListingDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GigaBnB.Business.DTOs.LoginDto">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>DTOs\LoginDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GigaBnB.Business.DTOs.LoginResponseDto">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTOs\LoginResponseDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GigaBnB.Business.DTOs.RegisterDto">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAAEAAAQAQAAAAAAAACAAAAAAAAIAA=</HashCode>
+      <FileName>DTOs\RegisterDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GigaBnB.Business.DTOs.UserDto">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAAEAAAQAQAAAAAAAACAAAAAAAAIAA=</HashCode>
+      <FileName>DTOs\UserDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GigaBnB.Business.Exceptions.ValidationException">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Exceptions\ValidationException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GigaBnB.Business.Filters.Exceptions.ValidationException">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Filters\Exceptions\ValidationException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GigaBnB.Business.Filters.ValidationExceptionFilterAttribute">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Filters\ValidationExceptionFilterAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GigaBnB.Business.Services.FavoriteListingsService" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAQAAAAAAAgAAAAAAAAAgBAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\FavoriteListingsService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GigaBnB.Business.Services.ListingService" BaseTypeListCollapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAgAAAAAAAAgAAAAAAAIAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Services\ListingService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GigaBnB.Business.Services.UserService" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACAAAAAAAAAgAAAAAAAAAAAQAAAAAACAAAAAE=</HashCode>
+      <FileName>Services\UserService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GigaBnB.Business.Utility.DataMatcher">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Utility\DataMatcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GigaBnB.Business.Validation.BaseValidator">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Validation\BaseValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GigaBnB.Business.Validation.LoginUserValidator">
+    <Position X="20.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Validation\LoginUserValidator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GigaBnB.Business.Validation.RegisterUserValidator">
+    <Position X="23" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAgAIIAAAAAEAACAAAAAAAIAAEAA=</HashCode>
+      <FileName>Validation\RegisterUserValidator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GigaBnB.Business.Validation.ValidationDictionary" BaseTypeListCollapsed="true">
+    <Position X="25.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAQAAAAgAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Validation\ValidationDictionary.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Struct Name="GigaBnB.Business.Utility.Result&lt;T&gt;">
+    <Position X="18.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Utility\Result.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="GigaBnB.Business.Services.IServices.IFavoriteListingsService">
+    <Position X="13.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\IServices\IFavoriteListingsService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GigaBnB.Business.Services.IServices.IListingService">
+    <Position X="15.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAgAAAAAAAAgAAAAAAAIAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Services\IServices\IListingService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GigaBnB.Business.Services.IServices.IUserService">
+    <Position X="13.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAE=</HashCode>
+      <FileName>Services\IServices\IUserService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GigaBnB.Business.Validation.IValidation">
+    <Position X="25.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAQAAAAgAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Validation\IValidation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GigaBnB.Business.Validation.IValidator&lt;T&gt;">
+    <Position X="27.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAQAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Validation\IValidator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

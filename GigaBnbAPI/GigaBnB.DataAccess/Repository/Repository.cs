@@ -75,7 +75,7 @@ public class Repository<T> : IRepository<T> where T : class
         return query;
     }
 
-    private IQueryable<T> IncludeProperties(string includeProperties, IQueryable<T> query)
+    private static IQueryable<T> IncludeProperties(string includeProperties, IQueryable<T> query)
     {
         foreach (var includeProp in includeProperties.Split(',', StringSplitOptions.RemoveEmptyEntries))
         {

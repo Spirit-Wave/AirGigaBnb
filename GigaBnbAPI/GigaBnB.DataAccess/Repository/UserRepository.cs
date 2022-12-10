@@ -5,7 +5,7 @@ namespace GigaBnB.DataAccess.Repository;
 
 public class UserRepository : Repository<User>, IUserRepository
 {
-    private ApplicationDbContext _db;
+    private readonly ApplicationDbContext _db;
 
     public UserRepository(ApplicationDbContext dbContext) : base(dbContext)
     {

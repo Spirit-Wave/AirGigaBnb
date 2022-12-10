@@ -4,9 +4,9 @@ namespace GigaBnB.Business.Utility;
 
 public struct Result<T>
 {
-    public Exception Exception = new();
+    private Exception Exception = new();
     [AllowNull]
-    public T Value = default;
+    private T Value = default;
 
     public Result(T value)
     {

@@ -6,7 +6,7 @@ namespace GigaBnB.Model.Models;
 public class Listing : EntityBase
 {
     [Required]
-    public string Title { get; set; }
+    public string? Title { get; set; }
 
     [Required]
     public ApartmentType ApartmentType { get; set; }
@@ -25,7 +25,7 @@ public class Listing : EntityBase
     [Required]
     public int BedroomCount { get; set; }
 
-    public string City { get; set; } = null!;
+    public string? City { get; set; } = null!;
 
     public string? Summary { get; set; }
 

@@ -34,7 +34,7 @@ public class FavoriteListingsService : IFavoriteListingsService
         return true;
     }
 
-    public bool IsFavorite(FavoriteListingDto favoriteListing, User user)
+    private static bool IsFavorite(FavoriteListingDto favoriteListing, User user)
     {
         return user!.FavoriteListings.Any(f => f.ListingId == favoriteListing.ListingId);
     }
